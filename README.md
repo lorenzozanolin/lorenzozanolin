@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Zanolin</h1>
 <h3 align="center">A Master Degree Student in Artificial Intelligence & Cybersecurity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzozanolin&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzozanolin" /> </p>
 
 - 🌱 I’m currently learning **lots of notions in both cybersecurity and AI.**
 
