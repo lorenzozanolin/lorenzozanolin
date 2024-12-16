@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Zanolin</h1>
-<h3 align="center">A Master Degree Student in Artificial Intelligence & Cybersecurity</h3>
+<h3 align="center">AI Engineer with a double Master Degree in Artificial Intelligence & Cybersecurity</h3>
 
 
-- 🌱 I’m currently learning **lots of notions in both cybersecurity and AI.**
+- 🌱 I’m currently learning **lots of notions in the AI field.**
 
 - 📫 How to reach me **lorenzozanolin@hotmail.com**
 
