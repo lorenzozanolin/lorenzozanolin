@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **lorenzozanolin@hotmail.com**
 
+- ⚠️ If you no longer see commits made to this profile, it’s because most of my daily work has been moved to GitLab due to company policies.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lorenzo-zanolin-777b721b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzo zanolin" height="30" width="40" /></a>
