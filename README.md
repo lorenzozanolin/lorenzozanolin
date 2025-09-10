@@ -47,7 +47,7 @@ $ cat zano.json
 
 ## 👾 What I have been up to...
 
-* 🛠️ [`datapizza`](https://github.com/Datapizza/datapizzai_agents): Datapizza AI, a RAG & Multi-Agent Framework.
+* 🛠️ [`datapizzai`](https://github.com/Datapizza/datapizzai_agents): Datapizza AI, a RAG & Multi-Agent Framework.
 * 🧠 [`ai-healthcare`](https://github.com/lorenzozanolin/GenAI-HealthCare): Generative AI for Healthcare, RAG implementation.
 * 📱 [`text-finder`](https://github.com/lorenzobazzana/TextFinder): iOS app to find text in ios Photos app.
 * 📝 Most of my daily work has been moved to GitLab due to company policies. I've been doing R&D and Consulting on Generative AI, RAG, Multi-Agent Framework, etc.
